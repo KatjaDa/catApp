@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Lobster', cursive;
+  background: linear-gradient(to right,  rgb(101, 240, 237)0%, rgb(5, 62, 128)100%);
+}
+
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-weight: 200;
+  color: #021b50;
+}
