@@ -1,9 +1,9 @@
 import React from 'react';
-import CardList from './CardList';
-import SearchBox from './SearchBox';
-import {cats} from './cats';
+import CardList from '../Components/CardList';
+import SearchBox from '../Components/SearchBox';
+import {cats} from '../Components/cats';
 
-//STATE is description of your App 
+//STATE is description of this App 
 
 class App extends React.Component {
     constructor() {
